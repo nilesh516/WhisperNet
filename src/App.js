@@ -9,8 +9,8 @@ const App = () => {
         <div>
             <Router>
                 <Routes>
-                    <Route  path='/' element={<Join />} />
-                    <Route  path='/WhishperNet' element={<Join />} />
+                    {/* <Route  path='/' element={<Join />} /> */}
+                    <Route  path='https://nilesh516.github.io//WhishperNet' element={<Join />} />
                     <Route  path='/chat' element={<Chat />} />
                 </Routes>
             </Router>
