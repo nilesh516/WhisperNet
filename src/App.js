@@ -10,7 +10,7 @@ const App = () => {
             <Router>
                 <Routes>
                     {/* <Route  path='/' element={<Join />} /> */}
-                    <Route  path='https://nilesh516.github.io//WhishperNet' element={<Join />} />
+                    <Route  path='https://nilesh516.github.io/WhishperNet' element={<Join />} />
                     <Route  path='/chat' element={<Chat />} />
                 </Routes>
             </Router>
