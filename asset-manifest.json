@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhishperNet/static/css/main.e712383a.css",
+    "main.js": "/WhishperNet/static/js/main.e9dffa85.js",
+    "index.html": "/WhishperNet/index.html",
+    "main.e712383a.css.map": "/WhishperNet/static/css/main.e712383a.css.map",
+    "main.e9dffa85.js.map": "/WhishperNet/static/js/main.e9dffa85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e712383a.css",
+    "static/js/main.e9dffa85.js"
+  ]
+}
